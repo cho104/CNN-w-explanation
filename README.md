@@ -21,6 +21,3 @@ cd build
 cmake ..
 make
 ```
-
-## Credits
-Based on the original implementation by [Seonghyeon Kim (okdalto)](https://github.com/okdalto).
